@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gungungupta7525/News.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Gungungupta7525/News.git/static/js/main.7a4f0f48.js",
+    "static/js/787.97affd7a.chunk.js": "/Gungungupta7525/News.git/static/js/787.97affd7a.chunk.js",
+    "static/media/Breaking.avif": "/Gungungupta7525/News.git/static/media/Breaking.2d1fb24e6f2f95e06dd1.avif",
+    "index.html": "/Gungungupta7525/News.git/index.html",
+    "main.e6c13ad2.css.map": "/Gungungupta7525/News.git/static/css/main.e6c13ad2.css.map",
+    "main.7a4f0f48.js.map": "/Gungungupta7525/News.git/static/js/main.7a4f0f48.js.map",
+    "787.97affd7a.chunk.js.map": "/Gungungupta7525/News.git/static/js/787.97affd7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a4f0f48.js"
+  ]
+}
